@@ -32,6 +32,8 @@ CORE_IMAGE_BASE_INSTALL += " \
     resize-helper \
     sudo \
     zram \
+    efivar \
+    efibootmgr \
 "
 
 # Configure NSS ALTFILES based on NSS_ALT_TYPES
